@@ -80,7 +80,7 @@ const Contact = () => {
           <Button
             type="primary"
             icon={<DownloadOutlined />}
-            href="https://drive.google.com/uc?export=download&id=1frCO5ljy0tJ8EyBqH6WaXC74HPfyY_Lw"
+            href="https://drive.google.com/drive/folders/1qktSpbKW3vQd3CgpT_1TSgFa1b_VMS_r?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             style={{ width: "fit-content", marginTop: "1rem" }}
